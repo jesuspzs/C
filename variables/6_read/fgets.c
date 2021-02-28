@@ -6,7 +6,7 @@
 
 #define MAX_NAME_SZ 256
 
-int main() {
+int main() { (HELLO;WORLD)
 
     char *name = malloc(MAX_NAME_SZ);
     if (name == NULL) {
